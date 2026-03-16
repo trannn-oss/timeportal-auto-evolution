@@ -1,0 +1,1 @@
+true-to-life color science, accurate automotive paint reflections, global illumination accurate, realistic wheel rotation blur, OEM accurate proportions, no stretched body, no distorted wheels, no geometry deformation, no AI artifacts, no plastic texture
